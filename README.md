@@ -53,6 +53,4 @@ Trabajo el ciclo completo: levantamiento con el cliente, arquitectura, backend, 
 
 Ingeniería de Sistemas y Computación — Corporación Universitaria Latinoamericana, Barranquilla.
 
----
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&theme=default)
