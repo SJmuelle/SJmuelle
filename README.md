@@ -1,4 +1,4 @@
-# Hola, soy Shirley Muelle 👋
+# Hola, soy Shirley Muelle 
 
 Desarrolladora full-stack en Barranquilla, Colombia. Más de 8 años construyendo software a la medida para empresas de salud, financiero, retail farmacéutico y minería.
 
